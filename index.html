@@ -417,15 +417,29 @@ A·B·C·D    A·B·C·D        × 4
             <label class="sl">Topic</label>
             <select class="si" id="infoCat">
               <option value="all">All</option>
-              <option value="Physics">Physics</option>
-              <option value="Mathematics">Mathematics</option>
-              <option value="Robotics">Robotics</option>
-              <option value="Sports">Sports</option>
-              <option value="Science">Science</option>
-              <option value="Geography">Geography</option>
-              <option value="History">History</option>
-              <option value="Technology">Technology</option>
               <option value="General Knowledge">General Knowledge</option>
+              <option value="Science">Science</option>
+              <option value="Mathematics">Mathematics</option>
+              <option value="Technology">Technology</option>
+              <option value="Artificial Intelligence">Artificial Intelligence</option>
+              <option value="Space &amp; Astronomy">Space &amp; Astronomy</option>
+              <option value="World History">World History</option>
+              <option value="Indian History &amp; Culture">Indian History &amp; Culture</option>
+              <option value="Geography">Geography</option>
+              <option value="Sports">Sports</option>
+              <option value="Biology">Biology</option>
+              <option value="Environment &amp; Nature">Environment &amp; Nature</option>
+              <option value="Business &amp; Economics">Business &amp; Economics</option>
+              <option value="Logical Reasoning">Logical Reasoning</option>
+              <option value="Programming">Programming</option>
+              <option value="Literature &amp; Language">Literature &amp; Language</option>
+              <option value="Mythology">Mythology</option>
+              <option value="Food &amp; Cuisine">Food &amp; Cuisine</option>
+              <option value="Vehicles &amp; Transportation">Vehicles &amp; Transportation</option>
+              <option value="Psychology">Psychology</option>
+              <option value="Art &amp; Culture">Art &amp; Culture</option>
+              <option value="Electronics &amp; Engineering">Electronics &amp; Engineering</option>
+              <option value="Formula 1">Formula 1</option>
             </select>
           </div>
           <div class="sr">
@@ -457,6 +471,8 @@ A·B·C·D    A·B·C·D        × 4
   </div>
 </div><!-- end #game -->
 
+<script src="question_bank_generated.js"></script>
+
 <!-- SETTINGS MODAL -->
 <div class="mo hidden" id="setMo">
   <div class="mc">
@@ -465,7 +481,7 @@ A·B·C·D    A·B·C·D        × 4
     <div class="sg">
       <div class="sr"><label class="sl">Players</label><select class="si" id="sPlayers"><option value="2">2 Players</option><option value="3">3 Players</option><option value="4">4 Players</option></select></div>
       <div class="sr"><label class="sl">Difficulty</label><select class="si" id="sDiff"><option value="all">All</option><option value="Easy">Easy</option><option value="Medium">Medium</option><option value="Hard">Hard</option></select></div>
-      <div class="sr"><label class="sl">Category</label><select class="si" id="sCat"><option value="all">All</option><option value="Physics">Physics</option><option value="Mathematics">Mathematics</option><option value="Robotics">Robotics</option><option value="Sports">Sports</option><option value="Science">Science</option><option value="Geography">Geography</option><option value="History">History</option><option value="Technology">Technology</option><option value="General Knowledge">General Knowledge</option></select></div>
+      <div class="sr"><label class="sl">Category</label><select class="si" id="sCat"><option value="all">All</option><option value="General Knowledge">General Knowledge</option><option value="Science">Science</option><option value="Mathematics">Mathematics</option><option value="Technology">Technology</option><option value="Artificial Intelligence">Artificial Intelligence</option><option value="Space &amp; Astronomy">Space &amp; Astronomy</option><option value="World History">World History</option><option value="Indian History &amp; Culture">Indian History &amp; Culture</option><option value="Geography">Geography</option><option value="Sports">Sports</option><option value="Biology">Biology</option><option value="Environment &amp; Nature">Environment &amp; Nature</option><option value="Business &amp; Economics">Business &amp; Economics</option><option value="Logical Reasoning">Logical Reasoning</option><option value="Programming">Programming</option><option value="Literature &amp; Language">Literature &amp; Language</option><option value="Mythology">Mythology</option><option value="Food &amp; Cuisine">Food &amp; Cuisine</option><option value="Vehicles &amp; Transportation">Vehicles &amp; Transportation</option><option value="Psychology">Psychology</option><option value="Art &amp; Culture">Art &amp; Culture</option><option value="Electronics &amp; Engineering">Electronics &amp; Engineering</option><option value="Formula 1">Formula 1</option></select></div>
     </div>
     <div class="tw"><span class="sl">Sound Effects</span><div class="tg on" id="tgSnd" onclick="this.classList.toggle('on');GS.soundOn=this.classList.contains('on')"></div></div>
     <div class="tw"><span class="sl">Animations</span><div class="tg on" id="tgAni" onclick="this.classList.toggle('on');GS.animOn=this.classList.contains('on')"></div></div>
@@ -489,6 +505,48 @@ A·B·C·D    A·B·C·D        × 4
           <option value="3">3 Players</option>
           <option value="4">4 Players</option>
         </select>
+      </div>
+      <div class="sr">
+        <label class="sl">Difficulty</label>
+        <select class="si" id="setupDiff">
+          <option value="all">All</option>
+          <option value="Easy">Easy</option>
+          <option value="Medium">Medium</option>
+          <option value="Hard">Hard</option>
+        </select>
+      </div>
+      <div class="sr">
+        <label class="sl">Question Topic</label>
+        <select class="si" id="setupCat">
+          <option value="all">All</option>
+          <option value="General Knowledge">General Knowledge</option>
+          <option value="Science">Science</option>
+          <option value="Mathematics">Mathematics</option>
+          <option value="Technology">Technology</option>
+          <option value="Artificial Intelligence">Artificial Intelligence</option>
+          <option value="Space &amp; Astronomy">Space &amp; Astronomy</option>
+          <option value="World History">World History</option>
+          <option value="Indian History &amp; Culture">Indian History &amp; Culture</option>
+          <option value="Geography">Geography</option>
+          <option value="Sports">Sports</option>
+          <option value="Biology">Biology</option>
+          <option value="Environment &amp; Nature">Environment &amp; Nature</option>
+          <option value="Business &amp; Economics">Business &amp; Economics</option>
+          <option value="Logical Reasoning">Logical Reasoning</option>
+          <option value="Programming">Programming</option>
+          <option value="Literature &amp; Language">Literature &amp; Language</option>
+          <option value="Mythology">Mythology</option>
+          <option value="Food &amp; Cuisine">Food &amp; Cuisine</option>
+          <option value="Vehicles &amp; Transportation">Vehicles &amp; Transportation</option>
+          <option value="Psychology">Psychology</option>
+          <option value="Art &amp; Culture">Art &amp; Culture</option>
+          <option value="Electronics &amp; Engineering">Electronics &amp; Engineering</option>
+          <option value="Formula 1">Formula 1</option>
+        </select>
+      </div>
+      <div class="sr">
+        <label class="sl">User Interest</label>
+        <input class="si" id="setupInterest" value="General Knowledge" placeholder="e.g. AI, Space, Science" autocomplete="off">
       </div>
     </div>
     <div class="fs" id="playerNameFields"></div>
@@ -525,66 +583,19 @@ attachPlayerSetupEvents();
 // ============================
 // QUESTION BANK
 // ============================
-const QB = [
-  {q:"What is the largest planet in our Solar System?",a:"Earth",b:"Mars",c:"Jupiter",d:"Venus",ans:"C",cat:"Science",diff:"Easy"},
-  {q:"Chemical symbol for Gold?",a:"Go",b:"Gd",c:"Gl",d:"Au",ans:"D",cat:"Science",diff:"Easy"},
-  {q:"How many bones in an adult human body?",a:"206",b:"189",c:"212",d:"225",ans:"A",cat:"Science",diff:"Medium"},
-  {q:"Speed of light (approximate)?",a:"3×10⁶ m/s",b:"3×10⁸ m/s",c:"3×10⁵ m/s",d:"3×10¹⁰ m/s",ans:"B",cat:"Science",diff:"Medium"},
-  {q:"DNA stands for?",a:"Deoxyribose Nucleic Acid",b:"Deoxyribonucleic Acid",c:"Diribonucleic Acid",d:"Dynamic Nucleic Acid",ans:"B",cat:"Science",diff:"Easy"},
-  {q:"Which gas do plants absorb during photosynthesis?",a:"Oxygen",b:"Nitrogen",c:"Carbon Dioxide",d:"Hydrogen",ans:"C",cat:"Science",diff:"Easy"},
-  {q:"Powerhouse of the cell?",a:"Nucleus",b:"Ribosome",c:"Golgi Body",d:"Mitochondria",ans:"D",cat:"Science",diff:"Easy"},
-  {q:"Which planet is the Red Planet?",a:"Venus",b:"Mars",c:"Jupiter",d:"Saturn",ans:"B",cat:"Science",diff:"Easy"},
-  {q:"Value of π to 2 decimal places?",a:"3.12",b:"3.41",c:"3.14",d:"3.16",ans:"C",cat:"Mathematics",diff:"Easy"},
-  {q:"Square root of 144?",a:"11",b:"12",c:"13",d:"14",ans:"B",cat:"Mathematics",diff:"Easy"},
-  {q:"If 2x + 5 = 13, what is x?",a:"3",b:"4",c:"5",d:"6",ans:"B",cat:"Mathematics",diff:"Easy"},
-  {q:"What is 15% of 200?",a:"25",b:"30",c:"35",d:"40",ans:"B",cat:"Mathematics",diff:"Easy"},
-  {q:"How many sides does a heptagon have?",a:"5",b:"6",c:"7",d:"8",ans:"C",cat:"Mathematics",diff:"Easy"},
-  {q:"What is log₁₀(1000)?",a:"2",b:"3",c:"4",d:"10",ans:"B",cat:"Mathematics",diff:"Medium"},
-  {q:"Sum of angles in a triangle?",a:"90°",b:"180°",c:"270°",d:"360°",ans:"B",cat:"Mathematics",diff:"Easy"},
-  {q:"Fibonacci: what comes after 13?",a:"18",b:"19",c:"20",d:"21",ans:"D",cat:"Mathematics",diff:"Medium"},
-  {q:"Capital of France?",a:"Berlin",b:"Paris",c:"Rome",d:"Madrid",ans:"B",cat:"Geography",diff:"Easy"},
-  {q:"Largest ocean?",a:"Atlantic",b:"Indian",c:"Arctic",d:"Pacific",ans:"D",cat:"Geography",diff:"Easy"},
-  {q:"Capital of Australia?",a:"Sydney",b:"Melbourne",c:"Canberra",d:"Brisbane",ans:"C",cat:"Geography",diff:"Medium"},
-  {q:"Country with largest land area?",a:"China",b:"USA",c:"Russia",d:"Canada",ans:"C",cat:"Geography",diff:"Easy"},
-  {q:"Longest river in the world?",a:"Amazon",b:"Nile",c:"Yangtze",d:"Mississippi",ans:"B",cat:"Geography",diff:"Medium"},
-  {q:"Mount Everest is in which mountain range?",a:"Andes",b:"Alps",c:"Himalayas",d:"Rockies",ans:"C",cat:"Geography",diff:"Easy"},
-  {q:"World War II ended in which year?",a:"1943",b:"1944",c:"1945",d:"1946",ans:"C",cat:"History",diff:"Easy"},
-  {q:"First President of the USA?",a:"Abraham Lincoln",b:"Thomas Jefferson",c:"George Washington",d:"John Adams",ans:"C",cat:"History",diff:"Easy"},
-  {q:"Who discovered penicillin?",a:"Marie Curie",b:"Louis Pasteur",c:"Alexander Fleming",d:"Joseph Lister",ans:"C",cat:"History",diff:"Easy"},
-  {q:"The Renaissance began in which country?",a:"France",b:"Italy",c:"Spain",d:"Germany",ans:"B",cat:"History",diff:"Medium"},
-  {q:"CPU stands for?",a:"Central Processing Unit",b:"Core Power Unit",c:"Computer Processing Unit",d:"Control Program Unit",ans:"A",cat:"Technology",diff:"Easy"},
-  {q:"HTTP stands for?",a:"HyperText Transfer Protocol",b:"High Transfer Text Protocol",c:"HyperText Transmission Program",d:"Host Transfer Text Protocol",ans:"A",cat:"Technology",diff:"Easy"},
-  {q:"Android OS developed by?",a:"Apple",b:"Microsoft",c:"Google",d:"Samsung",ans:"C",cat:"Technology",diff:"Easy"},
-  {q:"IoT stands for?",a:"Internet of Technology",b:"Internet of Things",c:"Integrated Online Technology",d:"Interface of Terminals",ans:"B",cat:"Technology",diff:"Easy"},
-  {q:"ESP32 is based on which architecture?",a:"ARM Cortex",b:"MIPS",c:"x86",d:"Xtensa LX6",ans:"D",cat:"Technology",diff:"Hard"},
-  {q:"Binary representation of decimal 10?",a:"1010",b:"1100",c:"0110",d:"1001",ans:"A",cat:"Technology",diff:"Medium"},
-  {q:"IoT wireless protocol?",a:"HTTP",b:"MQTT",c:"FTP",d:"SMTP",ans:"B",cat:"Technology",diff:"Medium"},
-  {q:"Fastest land animal?",a:"Lion",b:"Cheetah",c:"Leopard",d:"Horse",ans:"B",cat:"General Knowledge",diff:"Easy"},
-  {q:"Colors in a rainbow?",a:"5",b:"6",c:"7",d:"8",ans:"C",cat:"General Knowledge",diff:"Easy"},
-  {q:"National sport of Japan?",a:"Judo",b:"Baseball",c:"Sumo",d:"Kendo",ans:"C",cat:"General Knowledge",diff:"Medium"},
-  {q:"Who painted the Mona Lisa?",a:"Michelangelo",b:"Raphael",c:"Leonardo da Vinci",d:"Donatello",ans:"C",cat:"General Knowledge",diff:"Easy"},
-  {q:"Atomic number 1 element?",a:"Helium",b:"Carbon",c:"Hydrogen",d:"Oxygen",ans:"C",cat:"General Knowledge",diff:"Easy"},
-  {q:"Chess board squares?",a:"32",b:"48",c:"64",d:"72",ans:"C",cat:"General Knowledge",diff:"Easy"},
-  {q:"What force keeps planets in orbit?",a:"Magnetism",b:"Gravity",c:"Friction",d:"Nuclear force",ans:"B",cat:"Science",diff:"Easy"},
-  {q:"Which SI unit is used for force?",a:"Joule",b:"Newton",c:"Watt",d:"Pascal",ans:"B",cat:"Physics",diff:"Easy"},
-  {q:"What quantity is measured in volts?",a:"Energy",b:"Power",c:"Voltage",d:"Mass",ans:"C",cat:"Physics",diff:"Easy"},
-  {q:"Which law explains action and reaction forces?",a:"Ohm's law",b:"Newton's third law",c:"Boyle's law",d:"Kepler's law",ans:"B",cat:"Physics",diff:"Medium"},
-  {q:"A machine that can sense, think, and act automatically is called a?",a:"Sensor",b:"Robot",c:"Circuit",d:"Signal",ans:"B",cat:"Robotics",diff:"Easy"},
-  {q:"What is the main purpose of a robot actuator?",a:"Store data",b:"Create movement",c:"Generate light",d:"Measure speed",ans:"B",cat:"Robotics",diff:"Medium"},
-  {q:"Which robot component reads data from the environment?",a:"Actuator",b:"Sensor",c:"Battery",d:"Wire",ans:"B",cat:"Robotics",diff:"Easy"},
-  {q:"How many players are on the field for a standard football team?",a:"9",b:"10",c:"11",d:"12",ans:"C",cat:"Sports",diff:"Easy"},
-  {q:"Which sport uses a shuttlecock?",a:"Cricket",b:"Badminton",c:"Tennis",d:"Baseball",ans:"B",cat:"Sports",diff:"Easy"},
-  {q:"In athletics, what distance is a marathon closest to?",a:"21 km",b:"42 km",c:"10 km",d:"100 km",ans:"B",cat:"Sports",diff:"Medium"},
-  {q:"Which instrument measures electric current?",a:"Ammeter",b:"Barometer",c:"Thermometer",d:"Hydrometer",ans:"A",cat:"Physics",diff:"Easy"},
-  {q:"What is the SI unit of force?",a:"Joule",b:"Newton",c:"Watt",d:"Ohm",ans:"B",cat:"Physics",diff:"Easy"},
-  {q:"What is 9 squared?",a:"72",b:"81",c:"90",d:"99",ans:"B",cat:"Mathematics",diff:"Easy"},
-  {q:"A triangle with all sides equal is called what?",a:"Scalene",b:"Right",c:"Equilateral",d:"Isosceles",ans:"C",cat:"Mathematics",diff:"Medium"},
-  {q:"What does PWM stand for in robotics?",a:"Pulse Width Modulation",b:"Power Wave Movement",c:"Programmed Wire Module",d:"Position Wave Monitor",ans:"A",cat:"Robotics",diff:"Medium"},
-  {q:"Which sensor detects obstacles using light or infrared?",a:"Gyroscope",b:"Infrared sensor",c:"Speaker",d:"Relay",ans:"B",cat:"Robotics",diff:"Easy"},
-  {q:"How many points is a touchdown worth in American football?",a:"3",b:"6",c:"7",d:"9",ans:"B",cat:"Sports",diff:"Easy"},
-  {q:"Which sport is played with a puck?",a:"Cricket",b:"Hockey",c:"Squash",d:"Wrestling",ans:"B",cat:"Sports",diff:"Medium"}
-];
-QB.forEach((q,idx)=>q.id=idx+1);
+const QB = Array.isArray(window.LUDUSQuestionBank)
+  ? window.LUDUSQuestionBank.map((q, idx) => ({
+      q: q.q,
+      a: q.a,
+      b: q.b,
+      c: q.c,
+      d: q.d,
+      ans: q.ans,
+      cat: q.cat,
+      diff: q.diff,
+      id: typeof q.id !== 'undefined' ? q.id : idx + 1
+    }))
+  : [];
 
 // ============================
 // HARDWARE ABSTRACTION
@@ -908,9 +919,15 @@ function drawBoard(){
       c.fillText(LABELS[i],p.x+lox,p.y+loy-ph-5);
     }
     // Pocket label
-    c.font=`bold ${bSz*0.022}px Outfit`;c.fillStyle='#FFD060';c.textAlign='center';c.textBaseline='middle';
+    c.font=`bold ${Math.max(20,bSz*0.03)}px Outfit`;
+    c.fillStyle='#FFFFFF';
+    c.strokeStyle='rgba(30,12,0,0.95)';
+    c.lineWidth=2;
+    c.textAlign='center';
+    c.textBaseline='middle';
     const lx2=(i===0||i===2)?p.x+pktR*1.75:p.x-pktR*1.75;
     const ly2=(i===0||i===1)?p.y+pktR*1.75:p.y-pktR*1.75;
+    c.strokeText(p.lbl,lx2,ly2);
     c.fillText(p.lbl,lx2,ly2);
     // Sensor flash
     if(GS.sensors[i]&&GS.sensors[i].status==='DETECTED'){
@@ -1174,25 +1191,58 @@ function setState(s){
   el.style.borderColor=col;el.style.color=col;
 }
 
-function buildPool(){
+function filterQuestionsBySelection(cat,diff){
   let pool=[...QB];
-  if(GS.cat!=='all')pool=pool.filter(q=>q.cat===GS.cat);
-  if(GS.diff!=='all')pool=pool.filter(q=>q.diff===GS.diff);
+  if(cat && cat!=='all')pool=pool.filter(q=>q.cat===cat);
+  if(diff && diff!=='all')pool=pool.filter(q=>q.diff===diff);
+  return pool;
+}
 
-  pool = pool.filter(q => !GS.usedQuestions.has(q.id));
-  if(!pool.length){
-    GS.usedQuestions.clear();
-    pool=[...QB];
-    if(GS.cat!=='all')pool=pool.filter(q=>q.cat===GS.cat);
-    if(GS.diff!=='all')pool=pool.filter(q=>q.diff===GS.diff);
+function clearUsedQuestionsForSelection(cat,diff){
+  const sameSelection=filterQuestionsBySelection(cat,diff);
+  sameSelection.forEach(q=>GS.usedQuestions.delete(q.id));
+}
+
+function collectQuestionPack(cat,diff){
+  const pool=filterQuestionsBySelection(cat,diff);
+  if(!pool.length){return []}
+
+  // Use the same selected topic + same selected difficulty as the question source.
+  // This keeps the game from stopping when the selected filter is exhausted.
+  const freshBatch=pool.slice(0,Math.min(8,pool.length));
+  return freshBatch;
+}
+
+function buildPool(){
+  const requestedCat=GS.cat||'all';
+  const requestedDiff=GS.diff||'all';
+  let pool=filterQuestionsBySelection(requestedCat,requestedDiff);
+
+  // Remove all questions already used in this active topic/difficulty selection only.
+  let remaining=pool.filter(q=>!GS.usedQuestions.has(q.id));
+
+  // If the active topic/difficulty selection has no unused questions left,
+  // replenish from that same selected topic/difficulty rather than
+  // clearing the whole bank or halting the round.
+  if(!remaining.length){
+    clearUsedQuestionsForSelection(requestedCat,requestedDiff);
+    remaining=filterQuestionsBySelection(requestedCat,requestedDiff);
+    logEv(`NEW QUESTION PACK COLLECTED: ${requestedCat} · ${requestedDiff}`,'i');
   }
 
-  if(!pool.length){
-    pool=[...QB];
+  // If an active filter is still too small, supplement with more from the same filter.
+  if(remaining.length<6){
+    const extra=collectQuestionPack(requestedCat,requestedDiff).filter(q=>!remaining.some(r=>r.id===q.id));
+    remaining=remaining.concat(extra);
   }
 
-  for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]];}
-  GS.pool=pool;
+  // If the selected topic/difficulty is everything, keep the entire bank as the source.
+  if(!remaining.length){
+    remaining=[...QB];
+  }
+
+  for(let i=remaining.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[remaining[i],remaining[j]]=[remaining[j],remaining[i]];}
+  GS.pool=remaining;
 }
 
 function nextQ(){
@@ -1305,6 +1355,39 @@ function nextTurn(){
   setTimeout(()=>loadQuestion(),550);
 }
 
+function startCountdownAndLoadQuestion(){
+  const fbOv=document.getElementById('fbOv');
+  if(!fbOv)return loadQuestion();
+
+  const values=[3,2,1];
+  let i=0;
+
+  function showNumber(n){
+    fbOv.innerHTML=`<div class="fb-card"><span class="fb-ico">⏱</span><div class="fb-m" style="color:var(--gold)">${n}</div><div class="fb-pt" style="color:var(--gold)">COUNTDOWN</div><div class="fb-s">GET READY</div></div>`;
+    playSound('clock');
+  }
+
+  function showStart(){
+    fbOv.innerHTML=`<div class="fb-card ok"><span class="fb-ico">⚡</span><div class="fb-m" style="color:var(--green)">START!!</div><div class="fb-pt" style="color:var(--green)">GO</div><div class="fb-s">PLAYER 1 READY</div></div>`;
+    playSound('start');
+    setTimeout(()=>{
+      clearFB();
+      loadQuestion();
+    },800);
+  }
+
+  showNumber(values[i]);
+  const timer=setInterval(()=>{
+    i++;
+    if(i<values.length){
+      showNumber(values[i]);
+    } else {
+      clearInterval(timer);
+      showStart();
+    }
+  },850);
+}
+
 function endGame(){
   setState(GS.ST.OVER);
   hideTurnPop();
@@ -1415,6 +1498,8 @@ function playSound(type){
     else if(type==='pocket'){o.type='sine';o.frequency.setValueAtTime(580,n);o.frequency.exponentialRampToValueAtTime(290,n+.1);g.gain.setValueAtTime(.2,n);g.gain.exponentialRampToValueAtTime(.01,n+.15);o.start(n);o.stop(n+.15);}
     else if(type==='correct'){o.type='sine';o.frequency.setValueAtTime(523,n);o.frequency.setValueAtTime(659,n+.1);o.frequency.setValueAtTime(784,n+.22);g.gain.setValueAtTime(.25,n);g.gain.exponentialRampToValueAtTime(.01,n+.5);o.start(n);o.stop(n+.5);}
     else if(type==='wrong'){o.type='sawtooth';o.frequency.setValueAtTime(200,n);o.frequency.exponentialRampToValueAtTime(90,n+.3);g.gain.setValueAtTime(.2,n);g.gain.exponentialRampToValueAtTime(.01,n+.3);o.start(n);o.stop(n+.3);}
+    else if(type==='clock'){o.type='square';o.frequency.setValueAtTime(880,n);o.frequency.exponentialRampToValueAtTime(660,n+.05);g.gain.setValueAtTime(.12,n);g.gain.exponentialRampToValueAtTime(.01,n+.06);o.start(n);o.stop(n+.06);}
+    else if(type==='start'){o.type='triangle';o.frequency.setValueAtTime(660,n);o.frequency.setValueAtTime(990,n+.12);g.gain.setValueAtTime(.22,n);g.gain.exponentialRampToValueAtTime(.01,n+.2);o.start(n);o.stop(n+.22);}
   }catch(e){}
 }
 
@@ -1456,6 +1541,57 @@ function renderPlayerNameFields(count){
   }
 }
 
+function resolveInterestToCategory(interest){
+  if(!interest || !interest.trim())return 'all';
+  const normalized=(interest.trim().toLowerCase());
+  const catMap={
+    'general knowledge':'General Knowledge',
+    'general':'General Knowledge',
+    'science':'Science',
+    'math':'Mathematics',
+    'mathematics':'Mathematics',
+    'technology':'Technology',
+    'computer':'Technology',
+    'ai':'Artificial Intelligence',
+    'artificial intelligence':'Artificial Intelligence',
+    'machine learning':'Artificial Intelligence',
+    'space':'Space & Astronomy',
+    'astronomy':'Space & Astronomy',
+    'history':'World History',
+    'world history':'World History',
+    'indian history':'Indian History & Culture',
+    'culture':'Indian History & Culture',
+    'geography':'Geography',
+    'sports':'Sports',
+    'biology':'Biology',
+    'environment':'Environment & Nature',
+    'nature':'Environment & Nature',
+    'business':'Business & Economics',
+    'economics':'Business & Economics',
+    'logic':'Logical Reasoning',
+    'reasoning':'Logical Reasoning',
+    'programming':'Programming',
+    'coding':'Programming',
+    'language':'Literature & Language',
+    'literature':'Literature & Language',
+    'mythology':'Mythology',
+    'food':'Food & Cuisine',
+    'cuisine':'Food & Cuisine',
+    'transport':'Vehicles & Transportation',
+    'transportation':'Vehicles & Transportation',
+    'vehicles':'Vehicles & Transportation',
+    'psychology':'Psychology',
+    'art':'Art & Culture',
+    'culture':'Art & Culture',
+    'electronics':'Electronics & Engineering',
+    'engineering':'Electronics & Engineering',
+    'formula one':'Formula 1',
+    'formula 1':'Formula 1',
+    'racing':'Formula 1'
+  };
+  return catMap[normalized] || 'all';
+}
+
 function startFromPlayerSetup(){
   const c=document.getElementById('pCount');
   const count=parseInt(c?.value||2,10);
@@ -1465,6 +1601,19 @@ function startFromPlayerSetup(){
     const clean=(el?.value||'').trim();
     names.push(clean || `Player ${i}`);
   }
+
+  const setupCat=document.getElementById('setupCat');
+  const setupDiff=document.getElementById('setupDiff');
+  const setupInterest=document.getElementById('setupInterest');
+
+  const resolvedCat = resolveInterestToCategory(setupInterest?.value || setupCat?.value || 'all');
+  if(setupCat && resolvedCat && resolvedCat !== 'all'){
+    setupCat.value = resolvedCat;
+  }
+
+  if(setupCat){GS.cat = resolvedCat || setupCat.value || 'all';}
+  if(setupDiff){GS.diff=setupDiff.value||'all';}
+
   closePlayerSetup();
   startGame(false,names);
 }
@@ -1498,11 +1647,16 @@ function startGame(isDemo,customNames=null){
 
   GS.total=Infinity;
 
+  const setupCat=document.getElementById('setupCat');
+  const setupDiff=document.getElementById('setupDiff');
   const sCat=document.getElementById('sCat');
   const sDiff=document.getElementById('sDiff');
-  if(sCat){GS.cat=sCat.value||'all';}
+  if(setupCat && setupCat.value){GS.cat=setupCat.value||'all';}
+  else if(sCat){GS.cat=sCat.value||'all';}
   else{GS.cat=document.getElementById('infoCat')?.value||'all';}
-  if(sDiff){GS.diff=sDiff.value||'all';}
+
+  if(setupDiff && setupDiff.value){GS.diff=setupDiff.value||'all';}
+  else if(sDiff){GS.diff=sDiff.value||'all';}
   else{GS.diff=document.getElementById('infoDiff')?.value||'all';}
 
   const infoCat=document.getElementById('infoCat');
@@ -1527,7 +1681,8 @@ function startGame(isDemo,customNames=null){
   logEv(`PLAYERS: ${GS.players.map(p=>p.name).join(', ')}`,'i');
   if(isDemo){document.getElementById('demoBanner').classList.add('sh');document.getElementById('btnDemo').style.color='var(--green)';}
   else{document.getElementById('demoBanner').classList.remove('sh');document.getElementById('btnDemo').style.color='';}
-  setTimeout(()=>loadQuestion(),500);
+
+  startCountdownAndLoadQuestion();
 }
 
 function toggleDemo(){

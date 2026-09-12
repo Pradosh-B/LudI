@@ -1,0 +1,3573 @@
+{
+  "title": "LUDUS INTELLECTUS Prototype Question Bank",
+  "version": "1.0",
+  "total_questions": 272,
+  "difficulty_levels": [
+    "easy",
+    "medium",
+    "hard"
+  ],
+  "topics": [
+    "General Knowledge",
+    "Science",
+    "Mathematics",
+    "Technology",
+    "Artificial Intelligence",
+    "Space & Astronomy",
+    "World History",
+    "Indian History & Culture",
+    "Geography",
+    "Sports",
+    "Biology",
+    "Environment & Nature",
+    "Business & Economics",
+    "Logical Reasoning",
+    "Programming",
+    "Literature & Language",
+    "Mythology",
+    "Food & Cuisine",
+    "Vehicles & Transportation",
+    "Psychology",
+    "Art & Culture",
+    "Electronics & Engineering",
+    "Formula 1"
+  ],
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": [
+        "Paris",
+        "Rome",
+        "Madrid",
+        "Berlin"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "General Knowledge",
+      "subtopic": "General Knowledge"
+    },
+    {
+      "question": "Which is the largest ocean on Earth?",
+      "options": [
+        "Indian",
+        "Atlantic",
+        "Pacific",
+        "Arctic"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "General Knowledge",
+      "subtopic": "General Knowledge"
+    },
+    {
+      "question": "How many continents are there?",
+      "options": [
+        "7",
+        "6",
+        "5",
+        "8"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "General Knowledge",
+      "subtopic": "General Knowledge"
+    },
+    {
+      "question": "Which country is famous for the Great Wall?",
+      "options": [
+        "Thailand",
+        "China",
+        "India",
+        "Japan"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "General Knowledge",
+      "subtopic": "General Knowledge"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": [
+        "Won",
+        "Yen",
+        "Yuan",
+        "Ringgit"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "General Knowledge",
+      "subtopic": "General Knowledge"
+    },
+    {
+      "question": "Which country has the largest land area?",
+      "options": [
+        "China",
+        "Canada",
+        "Russia",
+        "USA"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "General Knowledge",
+      "subtopic": "General Knowledge"
+    },
+    {
+      "question": "Which city is known as the City of Canals?",
+      "options": [
+        "Athens",
+        "Lisbon",
+        "Venice",
+        "Prague"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "General Knowledge",
+      "subtopic": "General Knowledge"
+    },
+    {
+      "question": "Which is the smallest country by area?",
+      "options": [
+        "Liechtenstein",
+        "Vatican City",
+        "San Marino",
+        "Monaco"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "General Knowledge",
+      "subtopic": "General Knowledge"
+    },
+    {
+      "question": "Which country is completely surrounded by South Africa?",
+      "options": [
+        "Lesotho",
+        "Eswatini",
+        "Botswana",
+        "Namibia"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "General Knowledge",
+      "subtopic": "General Knowledge"
+    },
+    {
+      "question": "Which continent lies in all four hemispheres?",
+      "options": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "Antarctica"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "General Knowledge",
+      "subtopic": "General Knowledge"
+    },
+    {
+      "question": "What gas do humans need for respiration?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Science",
+      "subtopic": "Science"
+    },
+    {
+      "question": "What is H2O commonly called?",
+      "options": [
+        "Oxygen",
+        "Water",
+        "Hydrogen peroxide",
+        "Salt"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Science",
+      "subtopic": "Science"
+    },
+    {
+      "question": "Which force pulls objects toward Earth?",
+      "options": [
+        "Magnetism",
+        "Friction",
+        "Gravity",
+        "Pressure"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Science",
+      "subtopic": "Science"
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "options": [
+        "75°C",
+        "50°C",
+        "100°C",
+        "150°C"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Science",
+      "subtopic": "Science"
+    },
+    {
+      "question": "Which particle has a negative charge?",
+      "options": [
+        "Electron",
+        "Neutron",
+        "Proton",
+        "Photon"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Science",
+      "subtopic": "Science"
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Pascal",
+        "Watt",
+        "Newton",
+        "Joule"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Science",
+      "subtopic": "Science"
+    },
+    {
+      "question": "Which organelle is called the powerhouse of the cell?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondrion",
+        "Golgi apparatus"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Science",
+      "subtopic": "Science"
+    },
+    {
+      "question": "Which law relates pressure and volume inversely at constant temperature?",
+      "options": [
+        "Boyle's law",
+        "Charles's law",
+        "Ohm's law",
+        "Faraday's law"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Science",
+      "subtopic": "Science"
+    },
+    {
+      "question": "What is the approximate speed of light in vacuum?",
+      "options": [
+        "3×10^8 km/s",
+        "3×10^3 km/s",
+        "3×10^5 km/s",
+        "3×10^10 km/s"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Science",
+      "subtopic": "Science"
+    },
+    {
+      "question": "Which fundamental force causes beta decay?",
+      "options": [
+        "Gravity",
+        "Electromagnetic",
+        "Weak",
+        "Strong"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Science",
+      "subtopic": "Science"
+    },
+    {
+      "question": "What is 12 × 8?",
+      "options": [
+        "86",
+        "96",
+        "108",
+        "112"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Mathematics",
+      "subtopic": "Mathematics"
+    },
+    {
+      "question": "What is 25% of 200?",
+      "options": [
+        "40",
+        "25",
+        "50",
+        "75"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Mathematics",
+      "subtopic": "Mathematics"
+    },
+    {
+      "question": "What is √81?",
+      "options": [
+        "9",
+        "8",
+        "7",
+        "10"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Mathematics",
+      "subtopic": "Mathematics"
+    },
+    {
+      "question": "How many degrees are in a right angle?",
+      "options": [
+        "360",
+        "90",
+        "180",
+        "45"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Mathematics",
+      "subtopic": "Mathematics"
+    },
+    {
+      "question": "If x + 7 = 15, what is x?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Mathematics",
+      "subtopic": "Mathematics"
+    },
+    {
+      "question": "What is the area of an 8 cm by 5 cm rectangle?",
+      "options": [
+        "26",
+        "13",
+        "40",
+        "80"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Mathematics",
+      "subtopic": "Mathematics"
+    },
+    {
+      "question": "What is the next number: 2, 6, 12, 20, 30?",
+      "options": [
+        "42",
+        "40",
+        "36",
+        "44"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Mathematics",
+      "subtopic": "Mathematics"
+    },
+    {
+      "question": "What is 3² + 4²?",
+      "options": [
+        "56",
+        "25",
+        "49",
+        "12"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Mathematics",
+      "subtopic": "Mathematics"
+    },
+    {
+      "question": "What is the derivative of x²?",
+      "options": [
+        "x",
+        "2x",
+        "x²",
+        "2"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Mathematics",
+      "subtopic": "Mathematics"
+    },
+    {
+      "question": "What is 7!?",
+      "options": [
+        "2520",
+        "720",
+        "5040",
+        "10080"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Mathematics",
+      "subtopic": "Mathematics"
+    },
+    {
+      "question": "What is the probability of two heads with two fair coins?",
+      "options": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "3/4"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Mathematics",
+      "subtopic": "Mathematics"
+    },
+    {
+      "question": "What is det([[2,1],[3,4]])?",
+      "options": [
+        "11",
+        "5",
+        "8",
+        "3"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Mathematics",
+      "subtopic": "Mathematics"
+    },
+    {
+      "question": "What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Core Processing Utility"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Technology",
+      "subtopic": "Technology"
+    },
+    {
+      "question": "Which device moves a pointer?",
+      "options": [
+        "Mouse",
+        "Printer",
+        "Speaker",
+        "Scanner"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Technology",
+      "subtopic": "Technology"
+    },
+    {
+      "question": "What does USB stand for?",
+      "options": [
+        "Universal Storage Block",
+        "United System Board",
+        "Universal Serial Bus",
+        "User Service Bus"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Technology",
+      "subtopic": "Technology"
+    },
+    {
+      "question": "Which is an operating system?",
+      "options": [
+        "Wi-Fi",
+        "Windows",
+        "HTML",
+        "Python"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Technology",
+      "subtopic": "Technology"
+    },
+    {
+      "question": "Which protocol securely transfers web pages?",
+      "options": [
+        "HTTP",
+        "HTTPS",
+        "FTP",
+        "SMTP"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Technology",
+      "subtopic": "Technology"
+    },
+    {
+      "question": "Which data structure follows LIFO?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Tree",
+        "Graph"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Technology",
+      "subtopic": "Technology"
+    },
+    {
+      "question": "What does URL stand for?",
+      "options": [
+        "User Resource Language",
+        "Universal Routing Link",
+        "Uniform Resource Locator",
+        "Uniform Reference Line"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Technology",
+      "subtopic": "Technology"
+    },
+    {
+      "question": "Which technology connects devices over short range radio?",
+      "options": [
+        "VGA",
+        "Ethernet",
+        "HDMI",
+        "Bluetooth"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Technology",
+      "subtopic": "Technology"
+    },
+    {
+      "question": "What is the average complexity of binary search?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n²)"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Technology",
+      "subtopic": "Technology"
+    },
+    {
+      "question": "Which protocol maps domain names to IP addresses?",
+      "options": [
+        "DHCP",
+        "DNS",
+        "SSH",
+        "ARP"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Technology",
+      "subtopic": "Technology"
+    },
+    {
+      "question": "Which algorithm finds shortest paths with non-negative weights?",
+      "options": [
+        "Merge sort",
+        "KMP",
+        "Dijkstra",
+        "DFS only"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Technology",
+      "subtopic": "Technology"
+    },
+    {
+      "question": "What is decimal 255 in hexadecimal?",
+      "options": [
+        "AA",
+        "FF",
+        "F0",
+        "EF"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Technology",
+      "subtopic": "Technology"
+    },
+    {
+      "question": "What does AI stand for?",
+      "options": [
+        "Automated Internet",
+        "Artificial Intelligence",
+        "Advanced Information",
+        "Algorithmic Interface"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Artificial Intelligence",
+      "subtopic": "Artificial Intelligence"
+    },
+    {
+      "question": "What does ML stand for?",
+      "options": [
+        "Manual Logic",
+        "Machine Learning",
+        "Memory Link",
+        "Machine Language only"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Artificial Intelligence",
+      "subtopic": "Artificial Intelligence"
+    },
+    {
+      "question": "What can generative AI create?",
+      "options": [
+        "Only hardware",
+        "Text or images",
+        "Only electricity",
+        "Only cables"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Artificial Intelligence",
+      "subtopic": "Artificial Intelligence"
+    },
+    {
+      "question": "What is a chatbot designed to do?",
+      "options": [
+        "Print books",
+        "Cool a computer",
+        "Store electricity",
+        "Communicate with users"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Artificial Intelligence",
+      "subtopic": "Artificial Intelligence"
+    },
+    {
+      "question": "Which learning uses labeled examples?",
+      "options": [
+        "Supervised",
+        "Unsupervised",
+        "Random",
+        "Manual"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Artificial Intelligence",
+      "subtopic": "Artificial Intelligence"
+    },
+    {
+      "question": "What is classification?",
+      "options": [
+        "Compressing files",
+        "Predicting categories",
+        "Drawing hardware",
+        "Deleting data"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Artificial Intelligence",
+      "subtopic": "Artificial Intelligence"
+    },
+    {
+      "question": "What is overfitting?",
+      "options": [
+        "Deleting data",
+        "Overheating",
+        "Fitting training data too closely and generalizing poorly",
+        "Having no parameters"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Artificial Intelligence",
+      "subtopic": "Artificial Intelligence"
+    },
+    {
+      "question": "What is a neural network inspired by?",
+      "options": [
+        "Satellites",
+        "Hard disks",
+        "Keyboards",
+        "Brain neuron networks"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Artificial Intelligence",
+      "subtopic": "Artificial Intelligence"
+    },
+    {
+      "question": "What mechanism relates tokens in transformer models?",
+      "options": [
+        "Self-attention",
+        "Bubble sort",
+        "Hash collision",
+        "Pixel scaling"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Artificial Intelligence",
+      "subtopic": "Artificial Intelligence"
+    },
+    {
+      "question": "What is an embedding?",
+      "options": [
+        "A battery",
+        "A numerical vector representation",
+        "A cable",
+        "A backup"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Artificial Intelligence",
+      "subtopic": "Artificial Intelligence"
+    },
+    {
+      "question": "What does precision measure?",
+      "options": [
+        "Training time",
+        "Fraction of all positives",
+        "Fraction of predicted positives that are actually positive",
+        "Number of features"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Artificial Intelligence",
+      "subtopic": "Artificial Intelligence"
+    },
+    {
+      "question": "What is reinforcement learning based on?",
+      "options": [
+        "Random files",
+        "Only labels",
+        "Manual answers",
+        "Rewards and penalties"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Artificial Intelligence",
+      "subtopic": "Artificial Intelligence"
+    },
+    {
+      "question": "Which planet is called the Red Planet?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Space & Astronomy",
+      "subtopic": "Space & Astronomy"
+    },
+    {
+      "question": "What is Earth's natural satellite?",
+      "options": [
+        "Moon",
+        "Sun",
+        "Mars",
+        "Venus"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Space & Astronomy",
+      "subtopic": "Space & Astronomy"
+    },
+    {
+      "question": "Which is the largest planet?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Earth",
+        "Neptune"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Space & Astronomy",
+      "subtopic": "Space & Astronomy"
+    },
+    {
+      "question": "What star is at the center of our Solar System?",
+      "options": [
+        "Betelgeuse",
+        "Polaris",
+        "Sun",
+        "Sirius"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Space & Astronomy",
+      "subtopic": "Space & Astronomy"
+    },
+    {
+      "question": "What causes a solar eclipse?",
+      "options": [
+        "Earth between Sun and Moon",
+        "Moon between Sun and Earth",
+        "Sun between Earth and Moon",
+        "Mars blocks Sun"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Space & Astronomy",
+      "subtopic": "Space & Astronomy"
+    },
+    {
+      "question": "What is a light-year a measure of?",
+      "options": [
+        "Brightness",
+        "Time",
+        "Distance",
+        "Mass"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Space & Astronomy",
+      "subtopic": "Space & Astronomy"
+    },
+    {
+      "question": "Which planet has the Great Red Spot?",
+      "options": [
+        "Saturn",
+        "Jupiter",
+        "Mars",
+        "Neptune"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Space & Astronomy",
+      "subtopic": "Space & Astronomy"
+    },
+    {
+      "question": "What is the nearest star to the Sun?",
+      "options": [
+        "Polaris",
+        "Proxima Centauri",
+        "Betelgeuse",
+        "Sirius"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Space & Astronomy",
+      "subtopic": "Space & Astronomy"
+    },
+    {
+      "question": "What type of object is a pulsar?",
+      "options": [
+        "Rapidly rotating neutron star",
+        "Young planet",
+        "Comet",
+        "White dwarf only"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Space & Astronomy",
+      "subtopic": "Space & Astronomy"
+    },
+    {
+      "question": "What is an event horizon associated with?",
+      "options": [
+        "Comets",
+        "Black holes",
+        "Asteroids",
+        "Nebulae"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Space & Astronomy",
+      "subtopic": "Space & Astronomy"
+    },
+    {
+      "question": "Which mission first landed humans on the Moon?",
+      "options": [
+        "Apollo 11",
+        "Apollo 10",
+        "Apollo 8",
+        "Apollo 13"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Space & Astronomy",
+      "subtopic": "Space & Astronomy"
+    },
+    {
+      "question": "What is the Chandrasekhar limit associated with?",
+      "options": [
+        "Size of Jupiter",
+        "Speed of light",
+        "Age of Earth",
+        "Maximum stable white-dwarf mass"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Space & Astronomy",
+      "subtopic": "Space & Astronomy"
+    },
+    {
+      "question": "Which civilization built the pyramids at Giza?",
+      "options": [
+        "Romans",
+        "Egyptians",
+        "Vikings",
+        "Maya"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "World History",
+      "subtopic": "World History"
+    },
+    {
+      "question": "Who was the first Roman emperor?",
+      "options": [
+        "Julius Caesar",
+        "Augustus",
+        "Nero",
+        "Constantine"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "World History",
+      "subtopic": "World History"
+    },
+    {
+      "question": "Where did the Renaissance begin?",
+      "options": [
+        "Germany",
+        "France",
+        "Italy",
+        "Spain"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "World History",
+      "subtopic": "World History"
+    },
+    {
+      "question": "Which war ended with the Treaty of Versailles?",
+      "options": [
+        "Seven Years' War",
+        "World War II",
+        "Crimean War",
+        "World War I"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "World History",
+      "subtopic": "World History"
+    },
+    {
+      "question": "Which empire was ruled by Genghis Khan?",
+      "options": [
+        "Mongol",
+        "Roman",
+        "Ottoman",
+        "Mughal"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "World History",
+      "subtopic": "World History"
+    },
+    {
+      "question": "Where did the Industrial Revolution begin?",
+      "options": [
+        "Britain",
+        "France",
+        "Italy",
+        "Russia"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "World History",
+      "subtopic": "World History"
+    },
+    {
+      "question": "Which city was destroyed by Vesuvius in AD 79?",
+      "options": [
+        "Troy",
+        "Sparta",
+        "Pompeii",
+        "Carthage"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "World History",
+      "subtopic": "World History"
+    },
+    {
+      "question": "Who wrote the 95 Theses?",
+      "options": [
+        "Copernicus",
+        "Galileo",
+        "Newton",
+        "Martin Luther"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "World History",
+      "subtopic": "World History"
+    },
+    {
+      "question": "Which treaty ended the Thirty Years' War?",
+      "options": [
+        "Westphalia",
+        "Utrecht",
+        "Tordesillas",
+        "Ghent"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "World History",
+      "subtopic": "World History"
+    },
+    {
+      "question": "Which Byzantine emperor commissioned Hagia Sophia's famous sixth-century form?",
+      "options": [
+        "Constantine XI",
+        "Justinian I",
+        "Heraclius",
+        "Basil II"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "World History",
+      "subtopic": "World History"
+    },
+    {
+      "question": "When was the Battle of Hastings?",
+      "options": [
+        "1415",
+        "1215",
+        "1066",
+        "1492"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "World History",
+      "subtopic": "World History"
+    },
+    {
+      "question": "Which civilization used quipu for records?",
+      "options": [
+        "Phoenician",
+        "Roman",
+        "Egyptian",
+        "Inca"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "World History",
+      "subtopic": "World History"
+    },
+    {
+      "question": "What is the capital of India?",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "Chennai",
+        "Kolkata"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Indian History & Culture",
+      "subtopic": "Indian History & Culture"
+    },
+    {
+      "question": "What is India's national animal?",
+      "options": [
+        "Tiger",
+        "Lion",
+        "Elephant",
+        "Peacock"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Indian History & Culture",
+      "subtopic": "Indian History & Culture"
+    },
+    {
+      "question": "Which is India's national flower?",
+      "options": [
+        "Jasmine",
+        "Lotus",
+        "Rose",
+        "Sunflower"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Indian History & Culture",
+      "subtopic": "Indian History & Culture"
+    },
+    {
+      "question": "Which festival is known as the festival of lights?",
+      "options": [
+        "Baisakhi",
+        "Diwali",
+        "Onam",
+        "Holi"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Indian History & Culture",
+      "subtopic": "Indian History & Culture"
+    },
+    {
+      "question": "Who was the first President of independent India?",
+      "options": [
+        "Rajendra Prasad",
+        "Radhakrishnan",
+        "Nehru",
+        "Ambedkar"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Indian History & Culture",
+      "subtopic": "Indian History & Culture"
+    },
+    {
+      "question": "Which state has India's longest coastline?",
+      "options": [
+        "Gujarat",
+        "Tamil Nadu",
+        "Maharashtra",
+        "Andhra Pradesh"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Indian History & Culture",
+      "subtopic": "Indian History & Culture"
+    },
+    {
+      "question": "Who is known as the Iron Man of India?",
+      "options": [
+        "Bhagat Singh",
+        "Subhas Bose",
+        "Sardar Patel",
+        "Lal Bahadur Shastri"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Indian History & Culture",
+      "subtopic": "Indian History & Culture"
+    },
+    {
+      "question": "Which ancient university was in present-day Bihar?",
+      "options": [
+        "Vikramaditya University",
+        "Takshashila",
+        "Ujjain",
+        "Nalanda"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Indian History & Culture",
+      "subtopic": "Indian History & Culture"
+    },
+    {
+      "question": "Which article deals with equality before law?",
+      "options": [
+        "14",
+        "19",
+        "21",
+        "32"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Indian History & Culture",
+      "subtopic": "Indian History & Culture"
+    },
+    {
+      "question": "Who chaired the Drafting Committee?",
+      "options": [
+        "Rajendra Prasad",
+        "B. R. Ambedkar",
+        "Nehru",
+        "Patel"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Indian History & Culture",
+      "subtopic": "Indian History & Culture"
+    },
+    {
+      "question": "Which movement began in 1942?",
+      "options": [
+        "Non-Cooperation",
+        "Swadeshi",
+        "Quit India",
+        "Civil Disobedience"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Indian History & Culture",
+      "subtopic": "Indian History & Culture"
+    },
+    {
+      "question": "Which schedule contains Union, State and Concurrent Lists?",
+      "options": [
+        "Twelfth",
+        "Fifth",
+        "Ninth",
+        "Seventh"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Indian History & Culture",
+      "subtopic": "Indian History & Culture"
+    },
+    {
+      "question": "Which is the largest continent?",
+      "options": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Geography",
+      "subtopic": "Geography"
+    },
+    {
+      "question": "Which is the longest river in South America?",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Yangtze",
+        "Danube"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Geography",
+      "subtopic": "Geography"
+    },
+    {
+      "question": "Mount Everest is in which range?",
+      "options": [
+        "Himalayas",
+        "Alps",
+        "Andes",
+        "Rockies"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Geography",
+      "subtopic": "Geography"
+    },
+    {
+      "question": "Which desert is in northern Africa?",
+      "options": [
+        "Kalahari",
+        "Sahara",
+        "Atacama",
+        "Gobi"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Geography",
+      "subtopic": "Geography"
+    },
+    {
+      "question": "Which is the deepest ocean trench?",
+      "options": [
+        "Java",
+        "Mariana",
+        "Tonga",
+        "Puerto Rico"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Geography",
+      "subtopic": "Geography"
+    },
+    {
+      "question": "Which river flows through Egypt?",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Rhine",
+        "Mekong"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Geography",
+      "subtopic": "Geography"
+    },
+    {
+      "question": "What rock forms from cooled magma or lava?",
+      "options": [
+        "Igneous",
+        "Metamorphic",
+        "Sedimentary",
+        "Organic"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Geography",
+      "subtopic": "Geography"
+    },
+    {
+      "question": "Which country contains Transylvania?",
+      "options": [
+        "Serbia",
+        "Hungary",
+        "Bulgaria",
+        "Romania"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Geography",
+      "subtopic": "Geography"
+    },
+    {
+      "question": "Which strait separates Asia and North America?",
+      "options": [
+        "Gibraltar",
+        "Bering",
+        "Bosporus",
+        "Malacca"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Geography",
+      "subtopic": "Geography"
+    },
+    {
+      "question": "Which lake is the world's deepest freshwater lake?",
+      "options": [
+        "Baikal",
+        "Superior",
+        "Victoria",
+        "Tanganyika"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Geography",
+      "subtopic": "Geography"
+    },
+    {
+      "question": "What was the ancient supercontinent called?",
+      "options": [
+        "Laurasia",
+        "Gondwana",
+        "Pangaea",
+        "Rodinia"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Geography",
+      "subtopic": "Geography"
+    },
+    {
+      "question": "Which cold current flows along western South America?",
+      "options": [
+        "Agulhas",
+        "Peru/Humboldt",
+        "Kuroshio",
+        "Gulf Stream"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Geography",
+      "subtopic": "Geography"
+    },
+    {
+      "question": "How many players are on a cricket team?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Sports",
+      "subtopic": "Sports"
+    },
+    {
+      "question": "How many rings are on the Olympic flag?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Sports",
+      "subtopic": "Sports"
+    },
+    {
+      "question": "Which sport uses a shuttlecock?",
+      "options": [
+        "Hockey",
+        "Badminton",
+        "Tennis",
+        "Squash"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Sports",
+      "subtopic": "Sports"
+    },
+    {
+      "question": "How many players are on a football team on the field?",
+      "options": [
+        "12",
+        "10",
+        "11",
+        "9"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Sports",
+      "subtopic": "Sports"
+    },
+    {
+      "question": "How many legal balls are in a cricket over?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Sports",
+      "subtopic": "Sports"
+    },
+    {
+      "question": "Which country has won the most men's FIFA World Cups?",
+      "options": [
+        "Argentina",
+        "Germany",
+        "Brazil",
+        "France"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Sports",
+      "subtopic": "Sports"
+    },
+    {
+      "question": "What score follows 30 in tennis?",
+      "options": [
+        "45",
+        "40",
+        "35",
+        "50"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Sports",
+      "subtopic": "Sports"
+    },
+    {
+      "question": "Which event combines swimming, cycling and running?",
+      "options": [
+        "Heptathlon",
+        "Decathlon",
+        "Pentathlon",
+        "Triathlon"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Sports",
+      "subtopic": "Sports"
+    },
+    {
+      "question": "What is the maximum break in snooker?",
+      "options": [
+        "147",
+        "155",
+        "180",
+        "200"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Sports",
+      "subtopic": "Sports"
+    },
+    {
+      "question": "What does DRS stand for in Formula 1?",
+      "options": [
+        "Dynamic Racing System",
+        "Drag Reduction System",
+        "Driver Response System",
+        "Downforce Reduction Setup"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Sports",
+      "subtopic": "Sports"
+    },
+    {
+      "question": "Which Grand Slam is played on clay?",
+      "options": [
+        "French Open",
+        "US Open",
+        "Wimbledon",
+        "Australian Open"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Sports",
+      "subtopic": "Sports"
+    },
+    {
+      "question": "What is a cricket hat-trick?",
+      "options": [
+        "Three maiden overs",
+        "Three sixes",
+        "Three catches",
+        "Three wickets with three consecutive balls"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Sports",
+      "subtopic": "Sports"
+    },
+    {
+      "question": "Which organ pumps blood?",
+      "options": [
+        "Lungs",
+        "Heart",
+        "Liver",
+        "Kidney"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Biology",
+      "subtopic": "Biology"
+    },
+    {
+      "question": "How many lungs does a typical human have?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Biology",
+      "subtopic": "Biology"
+    },
+    {
+      "question": "Which organ filters blood and makes urine?",
+      "options": [
+        "Stomach",
+        "Heart",
+        "Kidney",
+        "Pancreas"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Biology",
+      "subtopic": "Biology"
+    },
+    {
+      "question": "What is the largest human organ?",
+      "options": [
+        "Lung",
+        "Skin",
+        "Brain",
+        "Liver"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Biology",
+      "subtopic": "Biology"
+    },
+    {
+      "question": "What molecule carries genetic information?",
+      "options": [
+        "DNA",
+        "ATP",
+        "Glucose",
+        "Lipase"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Biology",
+      "subtopic": "Biology"
+    },
+    {
+      "question": "Which is the universal red-cell donor type?",
+      "options": [
+        "A+",
+        "AB+",
+        "O−",
+        "B−"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Biology",
+      "subtopic": "Biology"
+    },
+    {
+      "question": "What process produces two similar daughter cells?",
+      "options": [
+        "Fertilization",
+        "Meiosis",
+        "Mitosis",
+        "Diffusion"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Biology",
+      "subtopic": "Biology"
+    },
+    {
+      "question": "Which organ produces insulin?",
+      "options": [
+        "Thyroid",
+        "Spleen",
+        "Liver",
+        "Pancreas"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Biology",
+      "subtopic": "Biology"
+    },
+    {
+      "question": "Which organelle is the main site of aerobic ATP production?",
+      "options": [
+        "Mitochondrion",
+        "Nucleus",
+        "Lysosome",
+        "Ribosome"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Biology",
+      "subtopic": "Biology"
+    },
+    {
+      "question": "During meiosis chromosome number is generally reduced by what factor?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "8"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Biology",
+      "subtopic": "Biology"
+    },
+    {
+      "question": "Which enzyme unwinds DNA during replication?",
+      "options": [
+        "Amylase",
+        "Ligase",
+        "Helicase",
+        "Pepsin"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Biology",
+      "subtopic": "Biology"
+    },
+    {
+      "question": "What is the functional unit of the kidney?",
+      "options": [
+        "Villus",
+        "Nephron",
+        "Alveolus",
+        "Neuron"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Biology",
+      "subtopic": "Biology"
+    },
+    {
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Environment & Nature",
+      "subtopic": "Environment & Nature"
+    },
+    {
+      "question": "What do bees collect from flowers?",
+      "options": [
+        "Sand",
+        "Nectar",
+        "Salt",
+        "Clay"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Environment & Nature",
+      "subtopic": "Environment & Nature"
+    },
+    {
+      "question": "What is the largest living land animal?",
+      "options": [
+        "Rhino",
+        "Elephant",
+        "Giraffe",
+        "Hippo"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Environment & Nature",
+      "subtopic": "Environment & Nature"
+    },
+    {
+      "question": "Which ecosystem has very low rainfall?",
+      "options": [
+        "Mangrove",
+        "Rainforest",
+        "Wetland",
+        "Desert"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Environment & Nature",
+      "subtopic": "Environment & Nature"
+    },
+    {
+      "question": "Which gas is strongly associated with human-caused global warming?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Helium",
+        "Neon"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Environment & Nature",
+      "subtopic": "Environment & Nature"
+    },
+    {
+      "question": "What is biodiversity?",
+      "options": [
+        "Amount of rainfall",
+        "Variety of life",
+        "Wind speed",
+        "Sunlight amount"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Environment & Nature",
+      "subtopic": "Environment & Nature"
+    },
+    {
+      "question": "Which layer protects from much ultraviolet radiation?",
+      "options": [
+        "Mesosphere",
+        "Troposphere",
+        "Ozone layer",
+        "Ionosphere"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Environment & Nature",
+      "subtopic": "Environment & Nature"
+    },
+    {
+      "question": "What is nitrogen fixation?",
+      "options": [
+        "Photosynthesis",
+        "Evaporation",
+        "Condensation",
+        "Conversion of atmospheric nitrogen into usable compounds"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Environment & Nature",
+      "subtopic": "Environment & Nature"
+    },
+    {
+      "question": "What is biomagnification?",
+      "options": [
+        "Pollutant concentration increasing along food chains",
+        "Forest growth",
+        "Biodiversity increase",
+        "Cloud formation"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Environment & Nature",
+      "subtopic": "Environment & Nature"
+    },
+    {
+      "question": "What commonly causes eutrophication?",
+      "options": [
+        "Lack of sunlight",
+        "Excess nutrients in water",
+        "Earthquakes",
+        "Tides"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Environment & Nature",
+      "subtopic": "Environment & Nature"
+    },
+    {
+      "question": "What is a keystone species?",
+      "options": [
+        "First discovered species",
+        "Largest species",
+        "A species with disproportionately large ecological effects",
+        "Desert species"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Environment & Nature",
+      "subtopic": "Environment & Nature"
+    },
+    {
+      "question": "Which biome has permafrost?",
+      "options": [
+        "Mediterranean scrub",
+        "Savanna",
+        "Temperate forest",
+        "Tundra"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Environment & Nature",
+      "subtopic": "Environment & Nature"
+    },
+    {
+      "question": "What does GDP stand for?",
+      "options": [
+        "Gross Domestic Product",
+        "General Development Plan",
+        "Global Domestic Price",
+        "Gross Development Percentage"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Business & Economics",
+      "subtopic": "Business & Economics"
+    },
+    {
+      "question": "What is a person who starts a business called?",
+      "options": [
+        "Auditor",
+        "Entrepreneur",
+        "Broker",
+        "Consumer"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Business & Economics",
+      "subtopic": "Business & Economics"
+    },
+    {
+      "question": "What is profit?",
+      "options": [
+        "Sales only",
+        "Costs plus taxes",
+        "Revenue minus costs",
+        "Assets minus employees"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Business & Economics",
+      "subtopic": "Business & Economics"
+    },
+    {
+      "question": "What is a consumer?",
+      "options": [
+        "A tax authority",
+        "A manufacturer only",
+        "A central bank",
+        "A user of goods or services"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Business & Economics",
+      "subtopic": "Business & Economics"
+    },
+    {
+      "question": "What is inflation?",
+      "options": [
+        "A sustained rise in general price levels",
+        "A fall in all wages",
+        "Only unemployment",
+        "A money-supply reduction"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Business & Economics",
+      "subtopic": "Business & Economics"
+    },
+    {
+      "question": "What does supply and demand help determine?",
+      "options": [
+        "Only taxes",
+        "Price and quantity",
+        "Only salaries",
+        "Only imports"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Business & Economics",
+      "subtopic": "Business & Economics"
+    },
+    {
+      "question": "What is a monopoly?",
+      "options": [
+        "A market with many sellers",
+        "A market with no buyers",
+        "A market dominated by one seller",
+        "A government budget"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Business & Economics",
+      "subtopic": "Business & Economics"
+    },
+    {
+      "question": "What is an asset?",
+      "options": [
+        "A loan rate",
+        "A business expense only",
+        "A tax penalty",
+        "A resource with economic value"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Business & Economics",
+      "subtopic": "Business & Economics"
+    },
+    {
+      "question": "What is diversification in investing?",
+      "options": [
+        "Spreading investments across assets",
+        "Buying one stock",
+        "Avoiding assets",
+        "Borrowing for one asset"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Business & Economics",
+      "subtopic": "Business & Economics"
+    },
+    {
+      "question": "What is a bond?",
+      "options": [
+        "A share only",
+        "A debt instrument",
+        "A commodity",
+        "A currency note"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Business & Economics",
+      "subtopic": "Business & Economics"
+    },
+    {
+      "question": "What is liquidity?",
+      "options": [
+        "Debt level",
+        "Profitability",
+        "Ease of converting an asset to cash without major price impact",
+        "Stock growth"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Business & Economics",
+      "subtopic": "Business & Economics"
+    },
+    {
+      "question": "What is opportunity cost?",
+      "options": [
+        "Revenue",
+        "Total production cost",
+        "Tax",
+        "Value of the best alternative forgone"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Business & Economics",
+      "subtopic": "Business & Economics"
+    },
+    {
+      "question": "What comes next: 2,4,6,8?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Logical Reasoning",
+      "subtopic": "Logical Reasoning"
+    },
+    {
+      "question": "If all cats are animals and Luna is a cat, what is true?",
+      "options": [
+        "Luna is a dog",
+        "Luna is an animal",
+        "All animals are cats",
+        "Luna cannot move"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Logical Reasoning",
+      "subtopic": "Logical Reasoning"
+    },
+    {
+      "question": "Which number is different: 2,4,6,9?",
+      "options": [
+        "6",
+        "4",
+        "2",
+        "9"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Logical Reasoning",
+      "subtopic": "Logical Reasoning"
+    },
+    {
+      "question": "If today is Monday, what is tomorrow?",
+      "options": [
+        "Wednesday",
+        "Monday",
+        "Tuesday",
+        "Sunday"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Logical Reasoning",
+      "subtopic": "Logical Reasoning"
+    },
+    {
+      "question": "What comes next: 3,6,12,24?",
+      "options": [
+        "36",
+        "42",
+        "48",
+        "54"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Logical Reasoning",
+      "subtopic": "Logical Reasoning"
+    },
+    {
+      "question": "If BOOK becomes CPPL by shifting each letter one place, GAME becomes?",
+      "options": [
+        "FZLD",
+        "HBNF",
+        "HBMF",
+        "HAME"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Logical Reasoning",
+      "subtopic": "Logical Reasoning"
+    },
+    {
+      "question": "At 3:00, what angle is between clock hands?",
+      "options": [
+        "90°",
+        "45°",
+        "0°",
+        "180°"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Logical Reasoning",
+      "subtopic": "Logical Reasoning"
+    },
+    {
+      "question": "What comes next: 5,10,20,40?",
+      "options": [
+        "100",
+        "70",
+        "80",
+        "60"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Logical Reasoning",
+      "subtopic": "Logical Reasoning"
+    },
+    {
+      "question": "A train travels 60 km in 45 minutes. Average speed?",
+      "options": [
+        "60",
+        "75",
+        "80",
+        "90"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Logical Reasoning",
+      "subtopic": "Logical Reasoning"
+    },
+    {
+      "question": "If 5 machines make 5 items in 5 minutes, 100 machines make 100 items in?",
+      "options": [
+        "20 min",
+        "5 min",
+        "100 min",
+        "500 min"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Logical Reasoning",
+      "subtopic": "Logical Reasoning"
+    },
+    {
+      "question": "What comes next: 1,1,2,3,5,8?",
+      "options": [
+        "13",
+        "12",
+        "11",
+        "15"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Logical Reasoning",
+      "subtopic": "Logical Reasoning"
+    },
+    {
+      "question": "How many edges does a cube have?",
+      "options": [
+        "14",
+        "10",
+        "12",
+        "8"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Logical Reasoning",
+      "subtopic": "Logical Reasoning"
+    },
+    {
+      "question": "Which language is widely used in AI and known for readable syntax?",
+      "options": [
+        "Python",
+        "Assembly",
+        "COBOL",
+        "Fortran"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Programming",
+      "subtopic": "Programming"
+    },
+    {
+      "question": "What does HTML primarily describe?",
+      "options": [
+        "Database encryption",
+        "Web-page structure",
+        "CPU instructions",
+        "Audio signals"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Programming",
+      "subtopic": "Programming"
+    },
+    {
+      "question": "Which symbol starts a Python comment?",
+      "options": [
+        "<!--",
+        "#",
+        "//",
+        "**"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Programming",
+      "subtopic": "Programming"
+    },
+    {
+      "question": "What is a variable used for?",
+      "options": [
+        "Printing code",
+        "Cooling CPU",
+        "Connecting Wi-Fi",
+        "Storing a value for reference"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Programming",
+      "subtopic": "Programming"
+    },
+    {
+      "question": "Which structure stores key-value pairs?",
+      "options": [
+        "Dictionary/Map",
+        "Stack only",
+        "Queue only",
+        "Array pointer"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Programming",
+      "subtopic": "Programming"
+    },
+    {
+      "question": "What does a function provide?",
+      "options": [
+        "Physical device",
+        "Reusable code block",
+        "Database server",
+        "Graphics card"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Programming",
+      "subtopic": "Programming"
+    },
+    {
+      "question": "What does API stand for?",
+      "options": [
+        "Application Process Index",
+        "Advanced Program Internet",
+        "Application Programming Interface",
+        "Automated Programming Input"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Programming",
+      "subtopic": "Programming"
+    },
+    {
+      "question": "What is debugging?",
+      "options": [
+        "Compressing images",
+        "Deleting code",
+        "Installing monitor",
+        "Finding and fixing errors"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Programming",
+      "subtopic": "Programming"
+    },
+    {
+      "question": "Worst-case complexity of linear search?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n²)"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Programming",
+      "subtopic": "Programming"
+    },
+    {
+      "question": "Which BST traversal outputs keys in sorted order?",
+      "options": [
+        "Pre-order",
+        "In-order",
+        "Post-order",
+        "Level-order"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Programming",
+      "subtopic": "Programming"
+    },
+    {
+      "question": "What is recursion?",
+      "options": [
+        "A database query",
+        "An infinite loop only",
+        "A function calling itself directly or indirectly",
+        "A network protocol"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Programming",
+      "subtopic": "Programming"
+    },
+    {
+      "question": "Which structure is commonly used for breadth-first search?",
+      "options": [
+        "Hash table",
+        "Stack",
+        "Heap",
+        "Queue"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Programming",
+      "subtopic": "Programming"
+    },
+    {
+      "question": "Who wrote Romeo and Juliet?",
+      "options": [
+        "Shakespeare",
+        "Dickens",
+        "Austen",
+        "Orwell"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Literature & Language",
+      "subtopic": "Literature & Language"
+    },
+    {
+      "question": "Which is a synonym for happy?",
+      "options": [
+        "Angry",
+        "Joyful",
+        "Tired",
+        "Silent"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Literature & Language",
+      "subtopic": "Literature & Language"
+    },
+    {
+      "question": "What is a noun?",
+      "options": [
+        "Punctuation",
+        "An action word only",
+        "A word naming a person, place, thing or idea",
+        "A conjunction"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Literature & Language",
+      "subtopic": "Literature & Language"
+    },
+    {
+      "question": "Which punctuation mark ends a question?",
+      "options": [
+        "Colon",
+        "Comma",
+        "Question mark",
+        "Period"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Literature & Language",
+      "subtopic": "Literature & Language"
+    },
+    {
+      "question": "Who wrote Pride and Prejudice?",
+      "options": [
+        "Jane Austen",
+        "Emily Brontë",
+        "Virginia Woolf",
+        "Mary Shelley"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Literature & Language",
+      "subtopic": "Literature & Language"
+    },
+    {
+      "question": "Who wrote 1984?",
+      "options": [
+        "Aldous Huxley",
+        "George Orwell",
+        "Tolkien",
+        "Hemingway"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Literature & Language",
+      "subtopic": "Literature & Language"
+    },
+    {
+      "question": "What is a metaphor?",
+      "options": [
+        "A rhyme",
+        "A question",
+        "A comparison without like/as",
+        "A historical event"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Literature & Language",
+      "subtopic": "Literature & Language"
+    },
+    {
+      "question": "Who wrote The Odyssey traditionally?",
+      "options": [
+        "Sophocles",
+        "Plato",
+        "Aristotle",
+        "Homer"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Literature & Language",
+      "subtopic": "Literature & Language"
+    },
+    {
+      "question": "Who wrote One Hundred Years of Solitude?",
+      "options": [
+        "Gabriel García Márquez",
+        "Pablo Neruda",
+        "Jorge Luis Borges",
+        "Mario Vargas Llosa"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Literature & Language",
+      "subtopic": "Literature & Language"
+    },
+    {
+      "question": "Which Shakespeare play features Prospero?",
+      "options": [
+        "Macbeth",
+        "The Tempest",
+        "Hamlet",
+        "Othello"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Literature & Language",
+      "subtopic": "Literature & Language"
+    },
+    {
+      "question": "What is iambic pentameter?",
+      "options": [
+        "A prose form",
+        "A ten-line poem",
+        "A meter commonly built from five iambic feet per line",
+        "A rhyme scheme"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Literature & Language",
+      "subtopic": "Literature & Language"
+    },
+    {
+      "question": "Who wrote The Divine Comedy?",
+      "options": [
+        "Boccaccio",
+        "Virgil",
+        "Homer",
+        "Dante Alighieri"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Literature & Language",
+      "subtopic": "Literature & Language"
+    },
+    {
+      "question": "Who is the Greek god of thunder?",
+      "options": [
+        "Zeus",
+        "Apollo",
+        "Ares",
+        "Hermes"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Mythology",
+      "subtopic": "Mythology"
+    },
+    {
+      "question": "Who is the Norse god associated with thunder and a hammer?",
+      "options": [
+        "Odin",
+        "Thor",
+        "Loki",
+        "Balder"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Mythology",
+      "subtopic": "Mythology"
+    },
+    {
+      "question": "Who is the Egyptian sun god commonly called Ra?",
+      "options": [
+        "Osiris",
+        "Anubis",
+        "Ra",
+        "Horus"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Mythology",
+      "subtopic": "Mythology"
+    },
+    {
+      "question": "Who is the Greek goddess of wisdom?",
+      "options": [
+        "Demeter",
+        "Aphrodite",
+        "Hera",
+        "Athena"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Mythology",
+      "subtopic": "Mythology"
+    },
+    {
+      "question": "Who ferries souls across the Styx?",
+      "options": [
+        "Charon",
+        "Hermes",
+        "Hades",
+        "Apollo"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Mythology",
+      "subtopic": "Mythology"
+    },
+    {
+      "question": "Which Egyptian god is associated with the afterlife and resurrection?",
+      "options": [
+        "Ra",
+        "Osiris",
+        "Thoth",
+        "Set"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Mythology",
+      "subtopic": "Mythology"
+    },
+    {
+      "question": "Who is the Roman equivalent of Ares?",
+      "options": [
+        "Mercury",
+        "Jupiter",
+        "Mars",
+        "Neptune"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Mythology",
+      "subtopic": "Mythology"
+    },
+    {
+      "question": "Which Norse realm is associated with the Aesir?",
+      "options": [
+        "Jotunheim",
+        "Midgard",
+        "Helheim",
+        "Asgard"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Mythology",
+      "subtopic": "Mythology"
+    },
+    {
+      "question": "What is Ragnarök?",
+      "options": [
+        "A prophesied catastrophic series of events and world renewal",
+        "A hammer",
+        "A realm only",
+        "A feast"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Mythology",
+      "subtopic": "Mythology"
+    },
+    {
+      "question": "Who is Achilles' mother?",
+      "options": [
+        "Hera",
+        "Thetis",
+        "Athena",
+        "Leto"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Mythology",
+      "subtopic": "Mythology"
+    },
+    {
+      "question": "Which Egyptian writing system used pictorial symbols?",
+      "options": [
+        "Linear B",
+        "Cuneiform",
+        "Hieroglyphs",
+        "Runes"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Mythology",
+      "subtopic": "Mythology"
+    },
+    {
+      "question": "What is Yggdrasil?",
+      "options": [
+        "An Egyptian pyramid",
+        "A Viking sword",
+        "A Greek temple",
+        "A cosmic tree in Norse mythology"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Mythology",
+      "subtopic": "Mythology"
+    },
+    {
+      "question": "What is the main ingredient of guacamole?",
+      "options": [
+        "Avocado",
+        "Apple",
+        "Potato",
+        "Carrot"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Food & Cuisine",
+      "subtopic": "Food & Cuisine"
+    },
+    {
+      "question": "Which grain is used for traditional sushi rice?",
+      "options": [
+        "Wheat",
+        "Rice",
+        "Barley",
+        "Corn"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Food & Cuisine",
+      "subtopic": "Food & Cuisine"
+    },
+    {
+      "question": "Which fruit is commonly used to make wine?",
+      "options": [
+        "Mango",
+        "Banana",
+        "Grape",
+        "Coconut"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Food & Cuisine",
+      "subtopic": "Food & Cuisine"
+    },
+    {
+      "question": "Which spice gives many curries a yellow color?",
+      "options": [
+        "Cardamom",
+        "Cinnamon",
+        "Pepper",
+        "Turmeric"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Food & Cuisine",
+      "subtopic": "Food & Cuisine"
+    },
+    {
+      "question": "Paella is associated with which country?",
+      "options": [
+        "Spain",
+        "Italy",
+        "Mexico",
+        "Greece"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Food & Cuisine",
+      "subtopic": "Food & Cuisine"
+    },
+    {
+      "question": "Which Japanese dish commonly uses vinegared rice?",
+      "options": [
+        "Ramen",
+        "Sushi",
+        "Tempura",
+        "Miso soup"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Food & Cuisine",
+      "subtopic": "Food & Cuisine"
+    },
+    {
+      "question": "Which Indian bread is traditionally cooked in a tandoor?",
+      "options": [
+        "Idli",
+        "Dosa",
+        "Naan",
+        "Puttu"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Food & Cuisine",
+      "subtopic": "Food & Cuisine"
+    },
+    {
+      "question": "What is the main ingredient in hummus?",
+      "options": [
+        "Rice",
+        "Lentils",
+        "Potatoes",
+        "Chickpeas"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Food & Cuisine",
+      "subtopic": "Food & Cuisine"
+    },
+    {
+      "question": "What is caramelization?",
+      "options": [
+        "Thermal browning of sugars",
+        "Freezing proteins",
+        "Fermentation of starch",
+        "Drying salt"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Food & Cuisine",
+      "subtopic": "Food & Cuisine"
+    },
+    {
+      "question": "What is umami?",
+      "options": [
+        "Sweet",
+        "Savory taste",
+        "Sour",
+        "Bitter"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Food & Cuisine",
+      "subtopic": "Food & Cuisine"
+    },
+    {
+      "question": "Which microorganism commonly makes bread rise?",
+      "options": [
+        "Protozoa",
+        "Algae",
+        "Yeast",
+        "Mold only"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Food & Cuisine",
+      "subtopic": "Food & Cuisine"
+    },
+    {
+      "question": "What is fermentation?",
+      "options": [
+        "Grinding",
+        "Boiling",
+        "Freezing",
+        "A metabolic process often involving microorganisms that transforms food"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Food & Cuisine",
+      "subtopic": "Food & Cuisine"
+    },
+    {
+      "question": "Which vehicle travels on railway tracks?",
+      "options": [
+        "Train",
+        "Car",
+        "Boat",
+        "Bicycle"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Vehicles & Transportation",
+      "subtopic": "Vehicles & Transportation"
+    },
+    {
+      "question": "What does GPS help determine?",
+      "options": [
+        "Blood pressure",
+        "Location and navigation",
+        "Food temperature",
+        "Internet speed"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Vehicles & Transportation",
+      "subtopic": "Vehicles & Transportation"
+    },
+    {
+      "question": "Which vehicle travels underwater?",
+      "options": [
+        "Tram",
+        "Glider",
+        "Submarine",
+        "Bus"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Vehicles & Transportation",
+      "subtopic": "Vehicles & Transportation"
+    },
+    {
+      "question": "What does EV stand for?",
+      "options": [
+        "Emergency Vehicle",
+        "Engine Vehicle",
+        "Electronic Van",
+        "Electric Vehicle"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Vehicles & Transportation",
+      "subtopic": "Vehicles & Transportation"
+    },
+    {
+      "question": "What does ABS help prevent?",
+      "options": [
+        "Wheel lock during braking",
+        "Engine overheating",
+        "Fuel evaporation",
+        "Airbag deployment"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Vehicles & Transportation",
+      "subtopic": "Vehicles & Transportation"
+    },
+    {
+      "question": "What is aerodynamics concerned with?",
+      "options": [
+        "Fuel burning only",
+        "How air flows around objects",
+        "Tire manufacture",
+        "Battery storage"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Vehicles & Transportation",
+      "subtopic": "Vehicles & Transportation"
+    },
+    {
+      "question": "Which instrument measures aircraft altitude?",
+      "options": [
+        "Tachometer",
+        "Speedometer",
+        "Altimeter",
+        "Odometer"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Vehicles & Transportation",
+      "subtopic": "Vehicles & Transportation"
+    },
+    {
+      "question": "Which component transfers engine power to wheels?",
+      "options": [
+        "Horn",
+        "Windshield",
+        "Radiator cap",
+        "Transmission"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Vehicles & Transportation",
+      "subtopic": "Vehicles & Transportation"
+    },
+    {
+      "question": "What is regenerative braking designed to do?",
+      "options": [
+        "Recover some kinetic energy as electrical energy",
+        "Increase tire friction",
+        "Cool brakes with fuel",
+        "Disable the motor"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Vehicles & Transportation",
+      "subtopic": "Vehicles & Transportation"
+    },
+    {
+      "question": "What does Mach number compare?",
+      "options": [
+        "Fuel with air",
+        "Speed with local speed of sound",
+        "Mass with volume",
+        "Distance with time"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Vehicles & Transportation",
+      "subtopic": "Vehicles & Transportation"
+    },
+    {
+      "question": "What is a differential designed to allow?",
+      "options": [
+        "Fuel storage",
+        "More windshield visibility",
+        "Driven wheels to rotate at different speeds while transmitting torque",
+        "Air conditioning control"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Vehicles & Transportation",
+      "subtopic": "Vehicles & Transportation"
+    },
+    {
+      "question": "What is a railway bogie?",
+      "options": [
+        "Passenger cabin",
+        "A signal light",
+        "Fuel tank",
+        "A wheel assembly supporting a rail vehicle"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Vehicles & Transportation",
+      "subtopic": "Vehicles & Transportation"
+    },
+    {
+      "question": "What is memory?",
+      "options": [
+        "Ability to encode, store and retrieve information",
+        "Ability to see",
+        "A muscle",
+        "A digestive process"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Psychology",
+      "subtopic": "Psychology"
+    },
+    {
+      "question": "Which sense detects sound?",
+      "options": [
+        "Vision",
+        "Hearing",
+        "Taste",
+        "Touch"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Psychology",
+      "subtopic": "Psychology"
+    },
+    {
+      "question": "What is an emotion?",
+      "options": [
+        "A program",
+        "A bone",
+        "A psychological and physiological response",
+        "A mathematical operation"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Psychology",
+      "subtopic": "Psychology"
+    },
+    {
+      "question": "What does sleep support?",
+      "options": [
+        "Only height",
+        "Only digestion",
+        "Only vision",
+        "Memory, recovery and normal body functions"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Psychology",
+      "subtopic": "Psychology"
+    },
+    {
+      "question": "What is confirmation bias?",
+      "options": [
+        "Favoring information supporting existing beliefs",
+        "Forgetting everything",
+        "Always changing opinions",
+        "Learning without experience"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Psychology",
+      "subtopic": "Psychology"
+    },
+    {
+      "question": "What is classical conditioning?",
+      "options": [
+        "Solving equations",
+        "Learning associations between stimuli",
+        "Muscle building",
+        "Translation"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Psychology",
+      "subtopic": "Psychology"
+    },
+    {
+      "question": "What is working memory?",
+      "options": [
+        "A hard drive",
+        "Permanent storage",
+        "A limited system for temporarily holding/manipulating information",
+        "A reflex"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Psychology",
+      "subtopic": "Psychology"
+    },
+    {
+      "question": "What is cognitive dissonance?",
+      "options": [
+        "A memory disorder",
+        "Loss of eyesight",
+        "A sleep stage",
+        "Discomfort from conflicting beliefs or behaviors"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Psychology",
+      "subtopic": "Psychology"
+    },
+    {
+      "question": "What is the Stroop effect?",
+      "options": [
+        "Interference when word meaning conflicts with a task",
+        "A sleep cycle",
+        "A conditioning type",
+        "A memory storage method"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Psychology",
+      "subtopic": "Psychology"
+    },
+    {
+      "question": "What is the placebo effect?",
+      "options": [
+        "A mutation",
+        "Changes associated with expectations about an inactive treatment",
+        "A reflex",
+        "An illusion"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Psychology",
+      "subtopic": "Psychology"
+    },
+    {
+      "question": "What is neuroplasticity?",
+      "options": [
+        "Blood production",
+        "Bone growth",
+        "The nervous system's ability to change and reorganize",
+        "Neuron hardening"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Psychology",
+      "subtopic": "Psychology"
+    },
+    {
+      "question": "What is operant conditioning?",
+      "options": [
+        "Learning without feedback",
+        "Learning through dreams",
+        "Reading only",
+        "Learning in which consequences influence behavior"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Psychology",
+      "subtopic": "Psychology"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Van Gogh"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Art & Culture",
+      "subtopic": "Art & Culture"
+    },
+    {
+      "question": "Which art form uses a camera?",
+      "options": [
+        "Sculpture",
+        "Photography",
+        "Ceramics",
+        "Weaving"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Art & Culture",
+      "subtopic": "Art & Culture"
+    },
+    {
+      "question": "What is a sculpture?",
+      "options": [
+        "A musical note",
+        "A poem",
+        "A three-dimensional artwork",
+        "A dance step"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Art & Culture",
+      "subtopic": "Art & Culture"
+    },
+    {
+      "question": "Which family does the violin belong to?",
+      "options": [
+        "Percussion",
+        "Brass",
+        "Woodwind",
+        "String"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Art & Culture",
+      "subtopic": "Art & Culture"
+    },
+    {
+      "question": "Which movement is associated with Monet?",
+      "options": [
+        "Impressionism",
+        "Cubism",
+        "Surrealism",
+        "Baroque"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Art & Culture",
+      "subtopic": "Art & Culture"
+    },
+    {
+      "question": "Who painted The Starry Night?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Salvador Dalí"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Art & Culture",
+      "subtopic": "Art & Culture"
+    },
+    {
+      "question": "Which ancient Greek structure is famous in Athens?",
+      "options": [
+        "Eiffel Tower",
+        "Colosseum",
+        "Parthenon",
+        "Taj Mahal"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Art & Culture",
+      "subtopic": "Art & Culture"
+    },
+    {
+      "question": "Which movement is associated with Picasso and Braque?",
+      "options": [
+        "Futurism",
+        "Romanticism",
+        "Realism",
+        "Cubism"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Art & Culture",
+      "subtopic": "Art & Culture"
+    },
+    {
+      "question": "What is chiaroscuro?",
+      "options": [
+        "Strong contrast between light and dark",
+        "A sculpture",
+        "A printing press",
+        "A dance"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Art & Culture",
+      "subtopic": "Art & Culture"
+    },
+    {
+      "question": "Which architect designed the Guggenheim Museum Bilbao?",
+      "options": [
+        "Zaha Hadid",
+        "Frank Gehry",
+        "Le Corbusier",
+        "Gaudí"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Art & Culture",
+      "subtopic": "Art & Culture"
+    },
+    {
+      "question": "What is fresco painting?",
+      "options": [
+        "Charcoal painting",
+        "Painting on glass only",
+        "Painting on fresh wet plaster",
+        "Digital painting"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Art & Culture",
+      "subtopic": "Art & Culture"
+    },
+    {
+      "question": "Which civilization made the famous terracotta warriors?",
+      "options": [
+        "Roman Britain",
+        "Minoan Crete",
+        "Aztec Mexico",
+        "Qin China"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Art & Culture",
+      "subtopic": "Art & Culture"
+    },
+    {
+      "question": "What is the unit of electrical resistance?",
+      "options": [
+        "Ohm",
+        "Volt",
+        "Ampere",
+        "Watt"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Electronics & Engineering",
+      "subtopic": "Electronics & Engineering"
+    },
+    {
+      "question": "Which component stores electrical charge?",
+      "options": [
+        "Resistor",
+        "Capacitor",
+        "Fuse",
+        "Switch"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Electronics & Engineering",
+      "subtopic": "Electronics & Engineering"
+    },
+    {
+      "question": "What does LED stand for?",
+      "options": [
+        "Light Electrical Driver",
+        "Low Energy Device",
+        "Light-Emitting Diode",
+        "Linear Emission Display"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Electronics & Engineering",
+      "subtopic": "Electronics & Engineering"
+    },
+    {
+      "question": "What does a resistor mainly do?",
+      "options": [
+        "Measure temperature",
+        "Store magnetic fields",
+        "Generate light",
+        "Oppose current flow"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Electronics & Engineering",
+      "subtopic": "Electronics & Engineering"
+    },
+    {
+      "question": "What is voltage?",
+      "options": [
+        "Electric potential difference",
+        "Current per second",
+        "Resistance to motion",
+        "Mechanical energy"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Electronics & Engineering",
+      "subtopic": "Electronics & Engineering"
+    },
+    {
+      "question": "Which law relates voltage, current and resistance?",
+      "options": [
+        "Newton's law",
+        "Ohm's law",
+        "Boyle's law",
+        "Hooke's law"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Electronics & Engineering",
+      "subtopic": "Electronics & Engineering"
+    },
+    {
+      "question": "What is a microcontroller?",
+      "options": [
+        "A display",
+        "A battery",
+        "A chip containing processing, memory and peripherals",
+        "A sensor only"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Electronics & Engineering",
+      "subtopic": "Electronics & Engineering"
+    },
+    {
+      "question": "What is PWM commonly used to control?",
+      "options": [
+        "Passwords",
+        "Database records",
+        "File names",
+        "Average power to loads such as motors or LEDs"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Electronics & Engineering",
+      "subtopic": "Electronics & Engineering"
+    },
+    {
+      "question": "What does an ADC do?",
+      "options": [
+        "Converts analog signals to digital representations",
+        "Converts data to heat",
+        "Stores mechanical energy",
+        "Amplifies sound only"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Electronics & Engineering",
+      "subtopic": "Electronics & Engineering"
+    },
+    {
+      "question": "What is a transistor commonly used for?",
+      "options": [
+        "Temperature measurement only",
+        "Switching and amplification",
+        "File storage",
+        "Radio generation alone"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Electronics & Engineering",
+      "subtopic": "Electronics & Engineering"
+    },
+    {
+      "question": "What is impedance?",
+      "options": [
+        "Charge itself",
+        "DC resistance only",
+        "Opposition to AC including resistance and reactance",
+        "Battery capacity"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Electronics & Engineering",
+      "subtopic": "Electronics & Engineering"
+    },
+    {
+      "question": "What is a PID controller designed to do?",
+      "options": [
+        "Generate random numbers",
+        "Encrypt data",
+        "Compress images",
+        "Regulate a system using proportional, integral and derivative terms"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Electronics & Engineering",
+      "subtopic": "Electronics & Engineering"
+    },
+    {
+      "question": "How many wheels does an F1 car have?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "topic": "Formula 1",
+      "subtopic": "Formula 1"
+    },
+    {
+      "question": "What does F1 stand for?",
+      "options": [
+        "Fast One",
+        "Formula One",
+        "Formula International",
+        "Final One"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "topic": "Formula 1",
+      "subtopic": "Formula 1"
+    },
+    {
+      "question": "What is a pit stop?",
+      "options": [
+        "A penalty only",
+        "Race start",
+        "A planned stop for service such as tires",
+        "Safety-car lap"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "topic": "Formula 1",
+      "subtopic": "Formula 1"
+    },
+    {
+      "question": "What does the chequered flag indicate?",
+      "options": [
+        "Practice",
+        "Restart",
+        "Pit-lane closure",
+        "End of a race"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "topic": "Formula 1",
+      "subtopic": "Formula 1"
+    },
+    {
+      "question": "What is pole position?",
+      "options": [
+        "First starting position",
+        "Last pit box",
+        "Fastest pit stop",
+        "First practice lap"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "topic": "Formula 1",
+      "subtopic": "Formula 1"
+    },
+    {
+      "question": "What is an F1 sprint?",
+      "options": [
+        "A pit stop challenge",
+        "A shorter competitive race at selected weekends",
+        "Qualifying warm-up",
+        "Safety-car period"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "topic": "Formula 1",
+      "subtopic": "Formula 1"
+    },
+    {
+      "question": "What does DRS reduce?",
+      "options": [
+        "Fuel pressure",
+        "Engine temperature",
+        "Aerodynamic drag",
+        "Brake temperature"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "topic": "Formula 1",
+      "subtopic": "Formula 1"
+    },
+    {
+      "question": "What is a formation lap?",
+      "options": [
+        "Pit inspection",
+        "A lap after podium",
+        "Qualifying only",
+        "A lap before the race start"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "topic": "Formula 1",
+      "subtopic": "Formula 1"
+    },
+    {
+      "question": "What is parc fermé?",
+      "options": [
+        "A restricted period/area with technical controls and limited car changes",
+        "A grandstand",
+        "Briefing room",
+        "Tire type"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "topic": "Formula 1",
+      "subtopic": "Formula 1"
+    },
+    {
+      "question": "What is an undercut?",
+      "options": [
+        "Driving below speed limit",
+        "Pitting earlier than a rival to gain time on fresher tires",
+        "Skipping qualifying",
+        "Using safety car"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "topic": "Formula 1",
+      "subtopic": "Formula 1"
+    },
+    {
+      "question": "What is dirty air?",
+      "options": [
+        "Wet track",
+        "Pollution",
+        "Turbulent airflow behind another car reducing aerodynamic performance",
+        "Exhaust smoke"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "topic": "Formula 1",
+      "subtopic": "Formula 1"
+    },
+    {
+      "question": "What is porpoising?",
+      "options": [
+        "Brake locking",
+        "Engine misfire",
+        "Tire overheating only",
+        "Aerodynamic bouncing caused by changing airflow and ride height"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "topic": "Formula 1",
+      "subtopic": "Formula 1"
+    }
+  ]
+}
